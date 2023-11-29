@@ -20,7 +20,7 @@ This project is meant to analyze two datasets: `flightData.csv`, which contains 
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd FlightAnalytics
+   cd flight-data-analysis
    ```
 3. **Ensure you have SBT (Scala Build Tool) installed.**
 4. **Build the project:**
